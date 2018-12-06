@@ -1,6 +1,6 @@
 @charset "utf-8";
 /* CSS Document */
-.game .gamedetails{
+.game{
 	cursor: default;
     display: block;
     margin-top: 0;
@@ -21,3 +21,5 @@
     overflow: hidden;
     text-overflow: ellipsis;
 }
+
+
