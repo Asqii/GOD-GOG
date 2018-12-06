@@ -1,0 +1,23 @@
+@charset "utf-8";
+/* CSS Document */
+.game .gamedetails{
+	cursor: default;
+    display: block;
+    margin-top: 0;
+    margin-bottom: -1px;
+    height: 45px;
+    font-weight: 400;
+    line-height: 41px;
+    padding: 0 10px;
+    border: solid;
+    border-width: 1px 1px 0 1px;
+    -webkit-transition: border 150ms ease-out, background 150ms ease-out;
+    transition: border 150ms ease-out, background 150ms ease-out;
+    border-color: rgba(0,0,0,0.1);
+    border-left-color: transparent;
+    border-right-color: transparent;
+    background: transparent;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
